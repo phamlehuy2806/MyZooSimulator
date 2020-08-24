@@ -1,0 +1,7 @@
+D:\Repos\C#\MyZooSimulator\MyZooSimulator\bin\Debug\MyZooSimulator.exe.config
+D:\Repos\C#\MyZooSimulator\MyZooSimulator\bin\Debug\MyZooSimulator.exe
+D:\Repos\C#\MyZooSimulator\MyZooSimulator\bin\Debug\MyZooSimulator.pdb
+D:\Repos\C#\MyZooSimulator\MyZooSimulator\obj\Debug\MyZooSimulator.csprojAssemblyReference.cache
+D:\Repos\C#\MyZooSimulator\MyZooSimulator\obj\Debug\MyZooSimulator.csproj.CoreCompileInputs.cache
+D:\Repos\C#\MyZooSimulator\MyZooSimulator\obj\Debug\MyZooSimulator.exe
+D:\Repos\C#\MyZooSimulator\MyZooSimulator\obj\Debug\MyZooSimulator.pdb
